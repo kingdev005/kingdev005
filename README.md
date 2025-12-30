@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Raheem (MRX Studio)</h1>
+<h1 align="center">Hi 👋, I'm Mohamed.R (MRX Studio)</h1>
 <h3 align="center">Full-Stack App & Web Developer | Mobile Expert</h3>
 
 ---
