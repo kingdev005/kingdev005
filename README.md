@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed.R (MRX Studio)</h1>
+<h1 align="center">Hi 👋, I'm Mohamed.R    (MRX Studio)</h1>
 <h3 align="center">Full-Stack App & Web Developer | Mobile Expert</h3>
 
 ---
@@ -40,11 +40,19 @@ Git · GitHub · Docker · CI/CD · Linux · Cloudflare · Vercel
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kingdev005&show_icons=true&theme=dark" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingdev005&layout=compact&theme=dark" height="165"/>
+  <!-- Activity Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kingdev005&count_private=true&show_icons=true&theme=dark&hide_border=false" height="165"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingdev005&layout=compact&theme=dark&hide_border=false" height="165"/>
 </p>
 
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingdev005&theme=dark&hide_border=false" height="165"/>
+</p>
 ---
 
 ### 🌍 Social & Contact
